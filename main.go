@@ -5,7 +5,6 @@ import (
 	"log"
 	"net/http"
 	"math/rand"
-	//"strconv"
 	"github.com/gorilla/mux"
 	"strconv"
 )
